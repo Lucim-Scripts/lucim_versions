@@ -1,1 +1,1 @@
-{ "version": "0.0.1", "updateNotes": "Initial Commit" }
+{ "version": "0.0.2", "updateNotes": "NUI Setup" }
