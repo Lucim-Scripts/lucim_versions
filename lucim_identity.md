@@ -1,1 +1,1 @@
-{ "version": "0.0.2", "updateNotes": "NUI Setup" }
+{ "version": "0.0.3", "updateNotes": "Update App.vue" }
