@@ -1,1 +1,1 @@
-{ "version": "0.0.5", "updateNotes": "Update client.lua" }
+{ "version": "0.0.6", "updateNotes": "Update client.lua, Update App.vue" }
