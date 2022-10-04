@@ -1,1 +1,1 @@
-{ "version": "0.0.3", "updateNotes": "Update App.vue" }
+{ "version": "0.0.4", "updateNotes": "Initial Client Commit" }
