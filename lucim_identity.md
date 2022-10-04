@@ -1,1 +1,1 @@
-{ "version": "0.0.4", "updateNotes": "Initial Client Commit" }
+{ "version": "0.0.5", "updateNotes": "Update client.lua" }
