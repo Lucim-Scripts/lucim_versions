@@ -1,1 +1,1 @@
-{ "version": "0.0.14", "updateNotes": "Add UI Transition" }
+{ "version": "0.0.15", "updateNotes": "Fix gender output" }
