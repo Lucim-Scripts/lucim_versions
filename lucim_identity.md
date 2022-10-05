@@ -1,1 +1,1 @@
-{ "version": "0.0.9", "updateNotes": "Config Stuff" }
+{ "version": "0.0.10", "updateNotes": "Finish Scripts" }
