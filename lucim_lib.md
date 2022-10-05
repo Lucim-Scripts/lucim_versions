@@ -1,1 +1,1 @@
-{ "version": "0.0.4", "updateNotes": "Update server.lua" }
+{ "version": "0.0.5", "updateNotes": "Simple Framework detection" }
