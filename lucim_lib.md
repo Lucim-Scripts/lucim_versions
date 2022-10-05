@@ -1,1 +1,1 @@
-{ "version": "0.0.2", "updateNotes": "Initial Commit" }
+{ "version": "0.0.3", "updateNotes": "Update CI.yml" }
