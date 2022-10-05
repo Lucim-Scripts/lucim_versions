@@ -1,1 +1,1 @@
-{ "version": "0.0.15", "updateNotes": "Fix gender output" }
+{ "version": "0.0.16", "updateNotes": "Resetting Data on re-open" }
