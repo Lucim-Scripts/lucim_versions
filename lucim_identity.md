@@ -1,1 +1,1 @@
-{ "version": "0.0.7", "updateNotes": "Update App.vue" }
+{ "version": "0.0.8", "updateNotes": "Update fxmanifest.lua" }
