@@ -1,1 +1,1 @@
-{ "version": "0.0.13", "updateNotes": "Fix UI is not closing #2" }
+{ "version": "0.0.14", "updateNotes": "Add UI Transition" }
