@@ -1,1 +1,1 @@
-{ "version": "0.0.10", "updateNotes": "Finish Scripts" }
+{ "version": "0.0.11", "updateNotes": "Fix gender output, Fix UI is not closing" }
