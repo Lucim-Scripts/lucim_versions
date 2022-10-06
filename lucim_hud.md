@@ -1,1 +1,1 @@
-{ "version": "0.0.2", "updateNotes": "Initial Commit #2" }
+{ "version": "0.0.3", "updateNotes": "Update fxmanifest.lua" }
