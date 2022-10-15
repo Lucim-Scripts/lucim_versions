@@ -1,1 +1,1 @@
-{ "version": "0.0.22", "updateNotes": "Finnally fixed translations" }
+{ "version": "0.0.23", "updateNotes": "Make title whitespace-nowrap" }
