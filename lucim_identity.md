@@ -1,1 +1,1 @@
-{ "version": "0.0.19", "updateNotes": "Update App.vue" }
+{ "version": "0.0.20", "updateNotes": "Update App.vue" }
