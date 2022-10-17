@@ -1,1 +1,1 @@
-{ "version": "0.0.16", "updateNotes": "Fix pathing for login" }
+{ "version": "0.0.17", "updateNotes": "Make Panel FXServer Ready" }
