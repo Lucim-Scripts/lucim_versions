@@ -1,1 +1,1 @@
-{ "version": "0.0.15", "updateNotes": "I hate Buffers" }
+{ "version": "0.0.16", "updateNotes": "Fix pathing for login" }
