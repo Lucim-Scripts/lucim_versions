@@ -1,1 +1,1 @@
-{ "version": "0.0.22", "updateNotes": "Update URLUtils.ts" }
+{ "version": "0.0.23", "updateNotes": "Add error handling" }
