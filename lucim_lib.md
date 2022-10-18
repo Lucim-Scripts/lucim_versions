@@ -1,1 +1,1 @@
-{ "version": "0.0.19", "updateNotes": "switching from node-fetch axios" }
+{ "version": "0.0.20", "updateNotes": "Update URLUtils.ts" }
