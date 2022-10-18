@@ -1,1 +1,1 @@
-{ "version": "0.0.18", "updateNotes": "Remove Stopping Resource on mismatch version" }
+{ "version": "0.0.19", "updateNotes": "switching from node-fetch axios" }
